@@ -12,5 +12,3 @@ while laskuri < 5:
 # print response
 print(lista)
  
-# print json content
-print(lista.json())
